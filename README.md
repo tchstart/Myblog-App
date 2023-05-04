@@ -3,7 +3,7 @@
 Blog前台台前端项目。
 
 
-后台项目管理：[Github](https://github.com/jyfStart/blog) 
+后台项目管理：[Github](https://github.com/tchstart/Myblog) 
 
 
 ## 快速开始
